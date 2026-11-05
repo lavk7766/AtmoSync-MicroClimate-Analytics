@@ -55,12 +55,18 @@ This document tracks the infrastructure and environment requirements for the Atm
 
 **Responsible:** ANKUSH PAL
 
-- [ ] Superset deployment availability checked.
-- [ ] Superset access verified.
-- [ ] Snowflake connectivity requirements reviewed.
-- [ ] Database connection prerequisites documented.
-- [ ] Dashboard access roles identified.
-- [ ] Initial dashboard KPIs identified.
+- [x] Superset deployment availability checked.
+- [x] Superset access verified.
+- [x] Snowflake connectivity requirements reviewed.
+- [x] Database connection prerequisites documented.
+- [x] Dashboard access roles identified.
+- [x] Initial dashboard KPIs identified.
+- [x] Snowflake database connection established and tested.
+- [x] Three Snowflake source tables successfully queried.
+- [x] Four initial KPI charts created and saved.
+- [x] AtmoSync Container Monitoring Dashboard created and saved.
+- [ ] Alert notification configuration and testing.
+- [ ] Threshold validation with the project team.
 
 ## 7. Integration Requirements
 
@@ -89,7 +95,7 @@ Record unresolved setup issues here:
 | Kafka | To be confirmed | Aditya | Pending |
 | Snowflake | To be confirmed | Manash | Pending |
 | dbt | To be confirmed | Manash | Pending |
-| Superset | To be confirmed | Ankush | Pending |
+| Superset | Initial deployment, Snowflake connection and dashboard completed; alert configuration pending | Ankush | Partially Complete |
 
 ## 10. Important Notes
 
