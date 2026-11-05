@@ -1,0 +1,5 @@
+product_name,product_stage_or_variety,recommended_temp_min_c,recommended_temp_max_c,best_temp_c,humidity_min_pct,humidity_max_pct,shelf_life_min_hours,shelf_life_max_hours,data_source,source_url,notes
+Apple,General fresh apples,-1,4,1.5,90,95,720,8640,FAO Storage of Horticultural Crops,https://www.fao.org/4/x5403e/x5403e09.htm,"Approximate storage life 1-12 months; variety and controlled atmosphere affect storage duration."
+Banana,Green mature bananas,13,14,13.5,90,95,2352,2352,FAO Storage of Horticultural Crops,https://www.fao.org/4/x5403e/x5403e09.htm,"Reference duration 14 weeks for green bananas; ripening stage and handling affect shelf life."
+Tomato,Firm-ripe tomatoes,7,10,8.5,90,95,192,240,UC Davis Postharvest Research Center,https://postharvest.ucdavis.edu/produce-facts-sheets/tomato,"Approximately 8-10 days of shelf life after reaching firm-ripe stage under recommended conditions."
+Strawberry,Fresh strawberries,0,0,0,90,95,72,168,University of Maine Cooperative Extension,https://extension.umaine.edu/publications/4135e/,"Approximate storage life 3-7 days at around 32 F; rapid cooling and careful handling are important."
