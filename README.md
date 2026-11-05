@@ -1,4 +1,3 @@
-# AtmoSync-MicroClimate-Analytics
 # AtmoSync – Micro-Climate Arbitrage Analytics
 
 **An IoT-powered analytics platform for container condition monitoring, spoilage-risk analysis, and alternative-market opportunity identification.**
