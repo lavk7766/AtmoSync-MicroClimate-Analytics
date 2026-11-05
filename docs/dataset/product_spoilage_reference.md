@@ -1,7 +1,27 @@
 # Product Spoilage Reference Dataset
 
-## Purpose
-This dataset contains reference storage conditions for products monitored by AtmoSync. It will support spoilage-risk analysis using container temperature and humidity telemetry.
+## Dataset Coverage
+
+The initial reference dataset contains 20 fresh fruit and vegetable
+products.
+
+It includes:
+- Product maturity or variety
+- Recommended storage temperature range
+- Relative humidity range
+- Approximate storage life in hours
+- Source publication and URL
+- Assumptions and limitations
+
+## Primary Reference
+
+FAO - Small-Scale Postharvest Handling Practices:
+https://www.fao.org/4/ae075e/ae075e15.htm
+
+Storage estimates are approximate and depend on variety, maturity,
+initial quality, handling, packaging and storage conditions.
+
+These values are reference data, not validated spoilage thresholds.
 
 ## File
 `data/reference/product_spoilage_reference.csv`
