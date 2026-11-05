@@ -24,4 +24,9 @@ dbt/dbt_packages/
 
 # IDE
 .vscode/
-.idea/
+.idea/logs/
+atmosync/target/
+atmosync/dbt_packages/
+atmosync/logs/
+logs/
+logs/
