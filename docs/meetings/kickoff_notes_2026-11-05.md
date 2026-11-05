@@ -56,7 +56,7 @@ The team will use individual branches for development.
 | Lav Kumar | lav-kumar |
 | Aditya Singh Bisht | Aditya-Singh-Bisht |
 | Manash Mandal | manash |
-| ANKUSH PAL | To be created |
+| ANKUSH PAL | ankush-pal |
 | Main branch | main |
 
 Members should commit their work to their assigned branches and raise pull requests for review.
