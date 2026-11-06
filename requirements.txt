@@ -11,3 +11,5 @@ pytz==2026.6
 snowflake-connector-python==5.1.0
 tomlkit==0.15.2
 tzdata==2026.6
+pydantic==2.14.3
+pytest==9.2.0
