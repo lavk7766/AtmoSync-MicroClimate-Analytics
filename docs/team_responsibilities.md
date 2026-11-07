@@ -78,7 +78,7 @@ All members are expected to:
 | Lav Kumar | lav-kumar |
 | Aditya Singh Bisht | Aditya-Singh-Bisht |
 | Manash Mandal | manash |
-| ANKUSH PAL | To be created |
+| ANKUSH PAL | ankush-pal |
 | Main project branch | main |
 
 ## 5. Reporting and Review
