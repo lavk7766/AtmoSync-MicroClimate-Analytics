@@ -274,7 +274,7 @@ The project follows a branch-based GitHub collaboration workflow.
 | Lav Kumar | `lav-kumar` |
 | Aditya Singh Bisht | `Aditya-Singh-Bisht` |
 | Manash Mandal | `manash` |
-| ANKUSH PAL | `ankush-pal` (to be created/confirmed) |
+| ANKUSH PAL | `ankush-pal` |
 | Main Branch | `main` |
 
 ### Contribution Steps
