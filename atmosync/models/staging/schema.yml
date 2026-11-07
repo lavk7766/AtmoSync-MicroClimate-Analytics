@@ -22,3 +22,33 @@ models:
       - name: price_per_kg
         tests:
           - not_null
+
+  - name: stg_product_spoilage_reference
+    columns:
+      - name: product_name
+        tests:
+          - not_null
+      - name: product_stage
+        tests:
+          - not_null
+      - name: recommended_temp_min_c
+        tests:
+          - not_null
+      - name: recommended_temp_max_c
+        tests:
+          - not_null
+      - name: best_temp_c
+        tests:
+          - not_null
+      - name: humidity_min_pct
+        tests:
+          - not_null
+      - name: humidity_max_pct
+        tests:
+          - not_null
+      - name: shelf_life_min_hours
+        tests:
+          - not_null
+      - name: shelf_life_max_hours
+        tests:
+          - not_null
