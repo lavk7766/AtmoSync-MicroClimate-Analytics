@@ -74,3 +74,32 @@ Notification channels and escalation rules require team confirmation.
 - Team-approved monitoring thresholds.
 - Alert notification and escalation requirements.
 - Agreed deployment environment.
+
+## 8. Day 3 – Dataset and Visualization Progress (7 November 2026)
+
+### Verified Snowflake Datasets
+
+| Dataset | Schema | Available Records | Status |
+|---|---|---:|---|
+| MART_CONTAINER_LATEST | MARTS | 3 | Verified |
+| STG_CONTAINER_TELEMETRY | STAGING | 5 | Verified |
+| RAW_COMMODITY_PRICES | RAW | 4 | Verified |
+| RAW_CONTAINER_METADATA | RAW | 0 | Empty |
+| RAW_MARKET_PRICES | RAW | 0 | Empty |
+| RAW_ROUTE_INFO | RAW | 0 | Empty |
+
+### Telemetry Visualizations
+
+- [x] Container Temperature by Time – created and saved.
+- [ ] Container Humidity by Time – pending confirmation.
+- [ ] Container Vibration by Time – pending confirmation.
+- [ ] Commodity Prices by Market – pending confirmation.
+
+The Container Temperature by Time visualization uses EVENT_TS as the X-axis and CONTAINER_ID as the series dimension.
+
+### Data Limitations
+
+- Container metadata currently contains zero records.
+- Product-to-container mapping is not yet available.
+- Product-specific spoilage-risk calculations require validated product reference data.
+- Alert thresholds and notification rules remain pending team approval.
